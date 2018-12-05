@@ -9,7 +9,7 @@
 npm install screwdriver-buildcluster-queue-worker
 ```
 
-## Testing
+## Unit Testing
 
 ```bash
 npm test
